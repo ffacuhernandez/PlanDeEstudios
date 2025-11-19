@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Quitamos el background hardcodeado, ahora lo maneja Tailwind en el HTML */
